@@ -21,7 +21,7 @@
 <tr>
 <td valign="top" width="65%">
 
-### Hi 👋, I'm Ambika Kumari!
+###Hi 👋, I am Ambika Kumari!
 
 ```yaml
 name:       Ambika Kumari
@@ -167,8 +167,7 @@ open_to: SDE Internships | UI/UX Roles | AI/ML Roles
 
 | 🏅 | Achievement |
 |---|---|
-| 🚀 | **NFPC National Level Hackathon** — Advanced to **Phase 2** out of ~2,000 participants nationwide (IIT Delhi × Reserve Bank Innovation Hub, April 2026) &nbsp; [![View Certificate](https://img.shields.io/badge/View_Certificate-F472B6?style=flat-square&logo=files&logoColor=white)](https://github.com/Ambika-7/Ambika-7/blob/main/certificates/NFPC_Certificate.pdf) |
-| 🎓 | **B.Tech CSE (Data Science & AI)** @ BML Munjal University — CGPA: 7.8 / 10.0 |
+| 🚀 | **NFPC National Level Hackathon** — Advanced to **Phase 2** out of ~2,000 participants nationwide (IIT Delhi × Reserve Bank Innovation Hub, April 2026) &nbsp; [![View Certificate](https://img.shields.io/badge/View_Certificate-F472B6?style=flat-square&logo=files&logoColor=white)](https://github.com/Ambika-7/Ambika-7/blob/main/NFPC%20Certificate.pdf) |
 | 🎨 | **UI/UX Designer Intern @ RannLab Technologies** — Designed interfaces for real-world production apps (June–July 2025) |
 | 💡 | **Chair, Innovation Vertical** — Young Indians (Yi), BMU Chapter (2025–Present) |
 
