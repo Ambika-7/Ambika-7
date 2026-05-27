@@ -21,7 +21,7 @@
 <tr>
 <td valign="top" width="65%">
 
-### 👋 About Me
+### 👋 Hii, I am Ambika!
 
 ```yaml
 name:       Ambika Kumari
